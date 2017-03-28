@@ -100,7 +100,7 @@
         </repository>
         <repository>
             <id>vmware_repo</id>
-            <url>https://brtc-vrorch-reg.cis.pg.com:8281/vco-repo</url>
+            <url>https://<vRO_Appliance>:8281/vco-repo</url>
         </repository>
     </repositories>
 </project>
