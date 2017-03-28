@@ -1,0 +1,38 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# SoapUI
+Basic_Fuction_Suite-*
+soapui-errors.log
+soapui.log
+global-groovy.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse Files
+.project
+.classpath
+.settings/
+.metadata/
+.metadata
+.DS_Store
+.recommenders/
+.springbeans
+
+# IntelliJ Files
+.idea/
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target/
+classes/
+Servers/
+bin/
+gen/
